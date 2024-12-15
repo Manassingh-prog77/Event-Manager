@@ -11,6 +11,11 @@ A simple and dynamic web application for managing events. This project allows us
 - **Persistent Data**: Events are saved in the browser's `localStorage`, ensuring data persists even after page refreshes or browser restarts.
 - **ShadCN UI**: The application uses [ShadCN UI](https://github.com/shadcn/ui), a highly customizable React component library, to provide a sleek and modern user interface for a polished and responsive design.
 
+## Deployment
+
+The application is live and accessible at the following link:  
+[Dynamic Event Calendar - Vercel Deployment](https://event-manager-k3gp.vercel.app/)
+
 ## Technologies Used
 
 - **React**: JavaScript library for building the user interface.
